@@ -30,13 +30,13 @@
 - Click **Fork** (top right corner) to create a copy in your GitHub account.
 
 ## 📌 2. Rename the Repository
-- Go to **Settings** → Rename the repository to **`username.github.io`** (replace `username` with your GitHub username).
+- Go to **Settings** → Rename the repository to **`miftah-ahmad-choiri.github.io`** (replace `miftah-ahmad-choiri` with your GitHub username).
 - This is required for GitHub Pages to host the website.
 
 ## 📌 3. Enable GitHub Pages
 - Navigate to **Settings** → **Pages**.
 - Under **Source**, select **main** branch and save.
-- Your website will be available at **https://username.github.io** in a few minutes.
+- Your website will be available at **https://miftah-ahmad-choiri.github.io** in a few minutes.
 
 ## 📌 4. Clone the Repository Locally
 Open a terminal or command prompt and run:
